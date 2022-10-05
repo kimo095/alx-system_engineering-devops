@@ -1,3 +1,2 @@
 #!/bin/bash
-file -m school.mgc thisisaschoolfile
-file -m school.mgc thisisatextfile
+file -i -m school.mgc thisisa*
