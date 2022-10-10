@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e " Hello world ! \n again" > .
+echo -e " Hello world ! \n again">/tmp/h$
