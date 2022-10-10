@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e " Hello world ! \n again">/tmp/h$
+echo -e " Hello, World \n This is the new line " > .
