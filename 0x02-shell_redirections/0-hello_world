@@ -1,2 +1,2 @@
 #!/bin/bash
-echo " Hello world ! \n again"
+echo -e " Hello world ! \n again"
