@@ -1,2 +1,2 @@
 #!/bin/bash
-export loc_Best = "School"
+Best = "School"
